@@ -1,1 +1,1 @@
-# 12-hour-standard-Clock-App-in-Python
+Make sure you have installed DS_DIGITAL.TTS font
